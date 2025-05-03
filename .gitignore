@@ -1,3 +1,6 @@
 .DS_Store
 .DS_Store
 .DS_Store
+docs/test-data-sets/trimmed/amazon_products.csv
+.gitignore
+docs/test-data-sets/unedited/amazon_products copy.csv
