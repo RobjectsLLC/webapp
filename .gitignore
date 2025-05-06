@@ -4,3 +4,7 @@
 docs/test-data-sets/trimmed/amazon_products.csv
 .gitignore
 docs/test-data-sets/unedited/amazon_products copy.csv
+.DS_Store
+main.py
+wsgi-file.ini
+.DS_Store
