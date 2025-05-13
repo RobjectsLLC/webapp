@@ -1,0 +1,11 @@
+﻿timestamp,connector_type_a,connector_type_b,supports_usb_pd,max_power_delivery,usb_version,supports_displayport,supports_hdmi,supports_alt_mode,supports_thunderbolt,supports_quick_charge,supports_audio,cable_length,wire_gauge,shielding_type,is_active_cable,price_usd,category_rating
+"November 2, 2024",USB-C,USB-A,1,20V/5A,USB 3.1,1,,1,,1,1,0.15m,28 AWG,Basic,,19.99,Standard
+"November 2, 2024",USB-C,HDMI,1,60W,USB 3.1,,1,1,1,,1,0.2m,24 AWG,Foil+Braid,,29.99,Premium
+"November 2, 2024",USB-C,USB-C,1,27W,USB 3.2,,,1,,1,1,1.2m,24 AWG,Foil+Braid,,34.99,Premium
+"November 2, 2024",USB-C,USB-C,1,100W,USB 3.2,1,1,1,1,1,1,0.2m,24 AWG,Foil+Braid,1,65.99,Ultimate
+"November 2, 2024",USB-C,USB-A,1,90W,USB 3.1,1,1,1,,1,1,0.13m,26 AWG,Braid,,89.99,Premium
+"November 2, 2024",USB-C,USB-A,1,60W,USB 3.1,,,1,,1,1,0.5m,24 AWG,Foil+Braid,,75,High
+"November 2, 2024",USB-C,USB-C,1,100W,USB4,1,1,1,1,1,1,0.9m,24 AWG,Foil+Braid,1,39.99,Ultimate
+"November 2, 2024",USB-A,Micro-B,,4.5W,USB 3.0,,,,,,1,1.0m,28 AWG,Foil,,14.99,Basic
+"November 2, 2024",USB-C,Multi,1,100W,USB 3.2,1,1,1,1,1,1,0.15m,24 AWG,Foil+Braid,1,49.99,Premium
+"November 2, 2024",USB-C,USB-A,,15W,USB 3.0,,,,,1,1,0.1m,28 AWG,Basic,,19.99,Standard
