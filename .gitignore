@@ -19,3 +19,4 @@ dev/webapps(with coding files)/sql_example/Sakila.sqlite3
 .DS_Store
 client-docs
 dev/models
+.DS_Store
