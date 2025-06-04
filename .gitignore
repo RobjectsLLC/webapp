@@ -22,3 +22,5 @@ dev/models
 .DS_Store
 .DS_Store
 dev/dataset/main-dataset/schema/~$type-c-Adapters_full-schema-with-color-coded-options.xlsx
+docs
+dev
